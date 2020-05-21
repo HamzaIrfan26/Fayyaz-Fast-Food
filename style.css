@@ -1,0 +1,263 @@
+.main-body{
+    background-color: rgb(252, 252, 252);
+}
+
+
+.navbar-nav{
+    padding-right: 30px !important;
+}
+
+.navbar-brand{
+    padding-left: 30px !important;
+    font-family: 'Poppins', sans-serif !important;
+    font-size: x-large;
+}
+
+.nav-link{
+    font-family: 'Jost', sans-serif;
+    margin-left: 5px;
+}
+
+.fa-shopping-cart{
+   font-size: 21px !important;
+}
+
+.fa-user-circle-o{
+    font-size: 21px !important;
+}
+
+.bg-light{
+    background-color: #231f20 !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+.bnb-img{
+    width: 1300px;
+}
+
+.navbar-toggler-icon{
+    color: white !important;
+}
+
+.bg-dark{
+    background-color: #231f20 !important;
+}
+
+
+.card1,.card2,.card3 {
+    display: flex;
+    margin-left: 60px;
+    margin-right: 60px;
+    width: 305px;
+    border: darkgray solid 1px;
+    border-radius: 9px;
+    box-shadow: 2px 4px 15px darkgray;
+    margin-top: 60px;
+    justify-content: center;
+    
+}
+
+.mainCard{
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (max-width: 400px){
+    .card1,.card2,.card3 {
+        width: 200px;
+    }
+}
+
+.vdbv{
+    border: rgb(194, 81, 81) solid 2px;
+    width: 320px;
+    border-radius: 5px;
+}
+
+.cdjnj{
+    border: rgb(194, 81, 81) solid 2px;
+    width: 320px;
+    border-radius: 5px;
+}
+
+#dvhdhbv{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+@media screen and (max-width:1000px){
+    .vdbv,.cdjnj{
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    }
+    
+}
+
+@media screen and (max-width:1000px){
+    .Services{
+        font-size: x-large;
+    }
+}
+
+@media screen and (max-width:400px){
+    .vdbv,.cdjnj{
+        width: 70px;
+    }
+}
+
+.Services{
+    color: rgb(48, 48, 48);
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+#bfbbf{
+    padding: 30px;
+    padding-left: 40px;
+    padding-top: 50px;
+    width: 250px;
+    height: 235px;
+    margin-bottom: 5px;
+}
+
+#jdbvdh{
+    padding: 30px;
+}
+
+#hcbhb{
+    width: 235px;
+    height: 200px;
+    padding-left: 40px;
+    padding-top: 50px;
+    margin-bottom: 42px;
+}
+
+.dbcvhdbc{
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#vdbdvj{
+    margin: 15px;
+    margin-left: 20px;
+    border-radius: 20px;
+    border: slategrey solid 1.5px;
+    box-shadow: 1px 5px 10px darkgray;
+}
+
+.btn-primary{
+    border-radius: 50px !important;
+    font-weight: bold;
+    background-color: white;
+    border: slategrey solid 2px;
+    color: slategrey;
+}
+
+.btn-primary:hover{
+    background-color: slategrey;
+    border: slategrey solid 2px;
+}
+
+.btn-primary:focus{
+    background-color: rgb(74, 84, 94) !important;
+    border: rgb(74, 84, 94) solid 2px;
+}
+
+.cushcdbfv{
+    width: 250px;
+}
+
+
+.btn-danger-vdfvvvdb{
+    padding: 9px !important;
+    padding-right: 28px !important;
+    padding-left: 28px !important;
+    border-radius: 30px !important;
+    border: rgb(160, 70, 70) solid 4px !important;
+    background-color: white;
+    font-weight: bold;
+    font-size: large;
+    color: rgb(160, 70, 70);
+}
+
+.btn-danger-vdfvvvdb:hover{
+    background-color: rgb(160, 70, 70);
+    border: rgb(160, 70, 70) solid 4px;
+    color: white;
+}
+
+
+.bsbskcfshjvnd{
+    color: rgb(107, 107, 107);
+}
+
+.ksjcbswhjc{
+    color: rgb(255, 116, 116);
+    margin-left: 12px;
+    margin-right: 12px;
+    text-shadow: lightslategrey 0.5px 0.5px 3px;
+}
+
+.ksiwjdn{
+    color: rgb(255, 255, 16);
+    text-shadow: lightslategrey 1px 1px 3px;
+    padding-left: 12px;
+}
+
+
+.jkaskifnj{
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(126, 63, 63);
+    color: floralwhite;
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.fa-copyright{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+@media screen and (max-width:600px){
+    .jssnksckls{
+        font-size: small;
+    }
+}
+
+@media screen and (max-width:600px){
+    .cushcdbfv{
+        width: 150px;
+    }
+}
